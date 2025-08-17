@@ -157,7 +157,7 @@
 		dots:false,
 		nav:false,
 		lazyLoad: true,
-		autoplayTimeout: 3000,
+		autoplayTimeout: 500,
 		responsive: {
 			0: {
 				items: 3
