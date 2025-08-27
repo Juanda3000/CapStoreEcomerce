@@ -361,7 +361,7 @@ video {
   font-size: 1.125rem;
 }
 
-a.box_news {
+/* a.box_news {
   position: relative;
   display: block;
   padding-left: 230px;
@@ -470,4 +470,4 @@ a.box_news ul li:last-child:after {
 a.box_news ul li:after {
   content: "-";
   margin: 0 0 0 10px;
-}
+} */
